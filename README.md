@@ -1,4 +1,5 @@
 # **Monitoramento Inteligente de Vagas de Estacionamento:** Computational Vision e YOLOv8
+
 -------------------
 
 ## Introdução
@@ -22,8 +23,8 @@
 -------------------
 
 ## Instruções e recomendações
-  - Este projeto foi desenvolvido no ambiente do Google Colaboratory. Se for executado em um ambiente como o Jupyter Notebook, podem ser necessárias adaptações.;
-  - É importante realizar o download do vídeo a partir da fonte original: ["vídeo_estacionamento.mp4"](https://www.pexels.com/pt-br/video/aereo-antena-automovel-carro-5587732/);
-  - Preste atenção aos caminhos de arquivo, tanto para o "vídeo_estacionamento.mp4" quanto para os modelos YOLO;
-  - Os arquivos "pipeline" estão melhor estruturados para reprodução e contêm instruções mais claras;
-  - O arquivo "projeto" foi criado para documentar todo o desenvolvimento do projeto, desde a introdução até a conclusão, com o objetivo de oferecer detalhes sobre a construção e a lógica subjacente para a sua criação
+  - Este projeto foi desenvolvido no ambiente do Google Colaboratory. Se for executado em um ambiente como o Jupyter Notebook, podem ser necessárias adaptações.
+  - É importante realizar o download do vídeo a partir da fonte original: ["vídeo_estacionamento.mp4"](https://www.pexels.com/pt-br/video/aereo-antena-automovel-carro-5587732/).
+  - Preste atenção aos caminhos de arquivo, tanto para o "vídeo_estacionamento.mp4" quanto para os modelos YOLO.
+  - Os arquivos "pipeline" estão melhor estruturados para reprodução e contêm instruções mais claras.
+  - O arquivo "projeto" foi criado para documentar todo o desenvolvimento do projeto, desde a introdução até a conclusão, com o objetivo de oferecer detalhes sobre a construção e a lógica subjacente para a sua criação.
