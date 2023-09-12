@@ -1,0 +1,2 @@
+# Monitoramento_Inteligente_de_Estacionamento_com_YOLOv8
+Monitoramento Inteligente de Vagas de Estacionamento: Computational Vision e YOLOv8
