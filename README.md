@@ -2,6 +2,9 @@
 
 -------------------
 
+https://github.com/LucasTWJT/Monitoramento_Inteligente_de_Estacionamento_com_YOLOv8/assets/103520318/718dbd3e-cce6-4649-89c1-cdd8cd680299
+
+------------
 ## Introdução
   Este projeto tem como objetivo utilizar a Visão Computacional, especificamente a rede neural convolucional YOLOv8, para criar um sistema de monitoramento de estacionamentos que detecta a disponibilidade de vagas e fornece informações visuais aos motoristas.
 
